@@ -1,6 +1,6 @@
 pyrofork
 tgcrypto
-pymongo[srv]
+pymongo[srv]==3.12.3
 motor
 marshmallow
 umongo
